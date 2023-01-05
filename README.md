@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Özkan Türidi</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alwaysad" alt="alwaysad" /></a> </p>
-
 - 🌱 I’m currently learning **reactjs, nextjs, typescript and tailwind css.**
 
 - 💬 Ask me about **react and frontend development.**
